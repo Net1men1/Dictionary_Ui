@@ -64,7 +64,11 @@
 - Giao đồ họa thân thiện và dễ sử dụng tích hợp các tính năng cơ bản trên, ngoài ra còn có thêm tính năng: Gợi ý từ đang tra, dịch văn bản bằng Google Translate API, lấy ví dụ cho từ bằng Google Oxford.
 - Sử dụng thuật toán tìm kiếm nhị phân
 
+- Cây kế thừa
+![package](https://github.com/Net1men1/Dictionary_Ui/assets/102776233/2daff3fc-903f-434e-ba46-3f5d4886a758)
+
 ## Used API
 
 - Google Translate API: online translate [Soure API Translate](https://script.google.com/macros/s/AKfycbzzimSXyRhh4zy2rePQ-cTwisM1WdYZRVc1x1UVRj0-NCV2DHkprugTqvoOsh95APWy/exec)
 - Google Oxford API
+
